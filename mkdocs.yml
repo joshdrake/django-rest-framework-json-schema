@@ -1,0 +1,4 @@
+site_name: djangorestframework-json-schema
+site_description: JSON Schema utilities for Django Rest Framework
+repo_url: https://github.com/joshdrake/django-rest-framework-json-schema
+site_dir: html
